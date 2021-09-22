@@ -2,17 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "email":"test@gmail.com",
-      "first_name":"Teste",
-      "last_name":"1",
-      "avatar":"https://reqres.in/img/faces/12-image.jpg"
-    },
-    {
-      "id": 2,
-      "email":"test@gmail.com",
-      "first_name":"Teste",
-      "last_name":"2",
-      "avatar":"https://reqres.in/img/faces/12-image.jpg"
+      "email":"courier6@mojaveexpress.com",
+      "first_name":"Courier",
+      "last_name":"6",
+      "avatar":"https://nerdsdagalaxia.com.br/wp-content/uploads/2020/03/Fallout-new-vegas-capa-1024x576.jpg"
     }
   ],
   "profile": {
